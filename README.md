@@ -1,5 +1,18 @@
-# StreamLit_BikeSharing
-Aplikasi sederhana untuk menampilkan visualisasi data dan insight dari analisis
+## Setup Environment - Shell/Terminal
+```
+mkdir proyek_analisis_data
+cd proyek_analisis_data
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
 
-Cara menjalankan dashboard (klik link):
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
+
+## Run streamlit app via streamlit cloud
+```
 https://appbikesharing-ebvgxlksnxdpmwfdy5yvym.streamlit.app/
+```
