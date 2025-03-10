@@ -220,6 +220,7 @@ st.write("\nPola penyewaan sepeda menunjukkan bahwa aktivitas penyewaan mencapai
 "kemungkinan karena keterbatasan pencahayaan, faktor keamanan, serta menurunnya jumlah orang yang beraktivitas di luar ruangan pada waktu tersebut.")
 
 st.subheader(" 🚀Saran Bisnis")
+st.write("Berdasarkan kesimpulan di atas, maka kita bisa menerapkan beberapa ide di bawah ini supaya penyewaan sepeda menjadi lebih baik daripada sebelumnya:")
 st.write("1. Memberikan diskon khusus pada musim semi dan musim dingin, sehingga orang-orang akan tertarik untuk menyewa sepeda.")
 st.write("2. Menyediakan jas hujan untuk orang yang menyewa sepeda.")
 st.write("3. Memberikan layanan minuman hangat gratis kepada penyewa saat musim dingin/hujan lebat.")
