@@ -14,5 +14,5 @@ streamlit run app.py
 
 ## Run streamlit app via streamlit cloud
 ```
-https://appbikesharing-ebvgxlksnxdpmwfdy5yvym.streamlit.app/
+[https://appbikesharing-ebvgxlksnxdpmwfdy5yvym.streamlit.app/](https://appbikesharing-saqc544xdtnbtvwbxsbljk.streamlit.app/)
 ```
